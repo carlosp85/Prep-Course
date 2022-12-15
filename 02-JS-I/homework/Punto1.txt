@@ -1,0 +1,7 @@
+1. Variable: Una variables es un elemento en el que se puede almacenar información como números, texto, etc.
+
+2. Strings: Es todo aquel dato que está conformado por letras, se puede incluír número pero con estos no se podrán hacer operaciones.
+
+3. Funciones(argumentos,return): Se trata de aquellas operaciones que puedo incluír dentro de una sección especial y la cual puede o no retornar un dato.
+
+4. Valores booleanos(true, false): Son aquellos datos que al realizar cualquier tipo de operación de comparación sólo podemos obneter como resultado un verdadero (true) o un falso (false), los operadores de comparación pueden ser; mayor(>), menor (<), mayor o igual (>=), menor o igual (<=); igual (==), diferente (!=) 
