@@ -1,0 +1,9 @@
+1. For: Es un statement que permite repetir varias instrucciones hasta que se cumpla una condición dada.
+
+2. &&, ||, !: Son operadores lógicos que nos sirven para realizar una comparación con más de una condición- 
+
+Usando el operador && obtendremos un verdadero(true) siempre y cuando todas las condiciones dadas sean verdaderas, de caso contrario el resultado será falso(false). 
+
+Usando el operador || obtendremos un falso(false) siempre y cuando todas las condiciones sea falsas, de caso contrario el resultado será verdadero(true).
+
+Usando el operador ! negamos una condición, eso quiere decir que si tenemos un verdadero(true), usando el operador ! este se convertirá a falso, y viceversa.
