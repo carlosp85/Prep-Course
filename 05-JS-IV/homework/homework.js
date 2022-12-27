@@ -44,7 +44,7 @@ function eliminarPropiedad (objeto, unaPropiedad) {
   // tip: tenes que usar bracket notation
   // Devuelve el objeto
   // Tu código:
-  delete objeto['unaPropiedad'];
+  delete objeto[unaPropiedad];
   return objeto;
 }
 
@@ -64,10 +64,10 @@ function tieneEmail (usuario) {
   // Devuelve "true" si el usuario tiene un valor definido para la propiedad "email"
   // De lo contrario, devuelve "false"
   // Tu código:
-  if(usuario.email=='udefined'){
-    return false;
+  if(usuario['email']){
+    return true;
   }
-  return true;
+  return false;
 }
 
 function tienePropiedad (objeto, propiedad) {
@@ -75,7 +75,7 @@ function tienePropiedad (objeto, propiedad) {
   // "propiedad" es un string
   // De lo contrario, devuelve "false"
   // Tu código:
-  if(objeto.key == propiedad){
+  if(objeto[propiedad]){
     return true;
   }
   return false;
