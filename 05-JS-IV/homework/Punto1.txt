@@ -1,0 +1,11 @@
+1. Objetos: Son aquellos elementos que tienen características o propiedades, como por ejemplo un perro tiene un nombre, color, raza, altura, etc. y comportamientos como ladrar, cavar pozo, llorar, dormir, comer, etc.
+
+2. Propiedades: son aquellas carcaterísticas que tiene un objeto y que me sirven para identificarlas, estas ayudan a denifinir un objetos dentro de la programación.
+
+3. Métodos: Son los comportamientos que puede tener un objeto y que les permiten realizar actividades dentro de la programación.
+
+4. Bucle for ... in: Me permiten realizar una iteacción con un objeto para poder recorrerlo e interacturar con sus propiedades.
+
+5. Notación por puntos: Me permite interactuar con las propiedades de los objetos, pudiendo consultar su valor y así como también realizar asignación en ellos.
+
+   Notación por corchetes: Me permite realizar las mismas operaciones que el anterior con la salvedad que siempre se debe denotar el nombre de la propiedad para porder interactuar con ella.
